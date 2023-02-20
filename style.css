@@ -1,0 +1,18 @@
+.container-fluid{
+	
+	background-image: url('https://images.wallpapersden.com/image/download/lucifer-season-5_a2xlbmeUmZqaraWkpJRnamtlrWZpaWU.jpg');
+	background-size: cover;
+}
+.Seasons button{
+
+	margin-right: 1%;
+	margin-top: 1%;
+	padding: 0.8%;
+	border:none;
+	border-radius: 3px;
+	background-color: #E50914;
+	color: white;
+}
+.Seasons button:hover{
+box-shadow: 0 0 50px black;
+}
